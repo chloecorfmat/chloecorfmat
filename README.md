@@ -1,4 +1,4 @@
-### Salut, je m'appelle Chloé et je suis une ingénieure créative 👋
+### Salut, je m'appelle Chloé et je suis ingénieure créative 👋
 
 
 <!--
