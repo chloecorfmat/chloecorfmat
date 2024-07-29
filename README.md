@@ -26,11 +26,10 @@ J’aide les petites entreprises et les associations à développer une présenc
 
 
 ### Mes prochains objectifs
-
-- [ ] Suivre et valider la formation Opquast
+- [ ] Développer un produit idéal (selon les usagers ciblés) pour le projet Audiodescription (porté par Bêta Gouv)
+- [ ] Continuer à me former à l'accessibilité numérique (FALC, fichiers bureautiques, fichiers PDF...)
 - [ ] Publier mon portfolio
 - [ ] Développer mon blog tech
-- [ ] Créer ma micro-entreprise
 - [ ] Créer du contenu pour mon blog et mes réseaux sociaux
 - [ ] Travailler avec vous ❤️
 
